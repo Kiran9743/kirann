@@ -1,0 +1,15 @@
+# Terraform directories
+.terraform/
+
+# Terraform state files (DO NOT COMMIT)
+*.tfstate
+*.tfstate.backup
+
+# Terraform lock file (optional)
+.terraform.lock.hcl
+
+# SSH keys
+*.pem
+
+# OS files
+.DS_Store
