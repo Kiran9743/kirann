@@ -1,5 +1,0 @@
-openai
-langchain
-faiss-cpu
-duckduckgo-search
-python-dotenv
